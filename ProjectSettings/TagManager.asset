@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Killer
+  - CheckPoint
+  - Ground
+  - PowerUp
+  - Boxes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Ground
+  - Grappable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2657139545
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platform
+    uniqueID: 3210957951
+    locked: 0
+  - name: Decorations
+    uniqueID: 711893789
+    locked: 0
+  - name: character
+    uniqueID: 1932269713
+    locked: 0
+  - name: effects
+    uniqueID: 1942912531
+    locked: 0
+  - name: UI
+    uniqueID: 636842861
+    locked: 0
+  - name: renderer
+    uniqueID: 1144657027
+    locked: 0
